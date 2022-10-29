@@ -7,18 +7,18 @@ The CSV file should default to problems.csv (example shown below), but the user 
 The CSV file will be in a format like below, where the first column is a question and the second column in the same row is the answer to that question.
 
 5+5,10<br />
-7+3,10
-1+1,2
-8+3,11
-1+2,3
-8+6,14
-3+1,4
-1+4,5
-5+1,6
-2+3,5
-3+3,6
-2+4,6
-5+2,7
+7+3,10<br />
+1+1,2<br />
+8+3,11<br />
+1+2,3<br />
+8+6,14<br />
+3+1,4<br />
+1+4,5<br />
+5+1,6<br />
+2+3,5<br />
+3+3,6<br />
+2+4,6<br />
+5+2,7<br />
 
 
 You can assume that quizzes will be relatively short (< 100 questions) and will have single word/number answers.
