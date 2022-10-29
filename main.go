@@ -19,7 +19,7 @@ func main() {
 	r := csv.NewReader(file)
 	lines, err := r.ReadAll()
 	if err != nil {
-		fmt.Println("smth wrong")
+		fmt.Println("something wrong")
 	}
 	_ = r
 	_ = lines
